@@ -30,8 +30,18 @@ body{
         max-width: 660px;
     }
 }
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 850px) {
     .content {
-        max-width: 992px;
+        max-width: 850px;
+    }
+}
+@media screen and (min-width: 950px){
+    .content {
+        max-width: 950px;
+    }
+}
+@media screen and (min-width: 1200px){
+    .content {
+        max-width: 1200px;
     }
 }
