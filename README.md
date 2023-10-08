@@ -1,2 +1,2 @@
 # Pokedex-DIO
-Exetamente igual a aula, sem modificações.
+Exatamente igual a aula, sem modificações.
